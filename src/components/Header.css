@@ -1,0 +1,11 @@
+.header {
+    height: 4rem;
+    font-family: impact;
+    font-style: italic;
+    font-size: 36px;
+    color: white;
+    background-color: #041578;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
