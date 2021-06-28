@@ -1,4 +1,4 @@
-Démo : https://eager-snyder-4fcb42.netlify.app/
+Démo : https://fizzbuzz-ing.netlify.app/
 
 A minimalist fizzbuzz project :
 you can choose a number with a counter and see "fizz" if multiple of 3, "buzz" if multiple of 5, or "fizzbuzz" if both ;)
